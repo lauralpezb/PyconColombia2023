@@ -14,7 +14,7 @@ Este notebook implementa una simulación de spark structured streaming con pyspa
 
 <center>
   <h4>Ejecuta el código:</h4>
-  <a href="https://colab.research.google.com/drive/1PjzgcFnpIKf0IyViHaHVTTDV1YubohSL?usp=sharing" target="_blank">
+  <a href="https://colab.research.google.com/drive/1Ii42OPOVoJAMorgmE_addaR6szwoFGO4?usp=sharing" target="_blank">
     <img width="20%" src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
   </a>
 </center>
