@@ -33,7 +33,7 @@ Este notebook en Google Colab te permitirá implementar NLP a la base almacenada
 ## Recursos Spark Structured Data Streaming
 - <a href="http://bit.ly/460pvY7">Charla Data Streaming con PySpark </a>
 - <a href="https://bit.ly/43wJts5">Introducción a PySpark </a>
-- <a href="ttps://spark.apache.org/docs/latest/structured-streaming-programming-guide.html">Guía Structured Streaming</a>
+- <a href="https://spark.apache.org/docs/latest/structured-streaming-programming-guide.html">Guía Structured Streaming</a>
 
 ## Recursos Procesamiento de Lenguaje Natural (NLP)
 - <a href="https://huggingface.co/"> Hugging Face </a>
